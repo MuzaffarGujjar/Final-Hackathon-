@@ -5,7 +5,7 @@ export default function PortfolioCard(props) {
   return (
     <>
         <div className='portfolioCard'>
-          <Image src={props.src} />
+          <Image src={props.src} alt='some thing' />
         </div>
     </>
   );
