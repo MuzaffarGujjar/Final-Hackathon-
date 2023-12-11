@@ -1,6 +1,6 @@
-import ClientPriceCard from "../(components)/clientPriceCard/clientPriceCard";
-import PriceCard from "../(components)/pricesCard/priceCard";
-import VerifyPage from "../(components)/verifyPage/verifyPage";
+import ClientPriceCard from "../components/clientPriceCard/clientPriceCard";
+import PriceCard from "../components/pricesCard/priceCard";
+import VerifyPage from "../components/verifyPage/verifyPage";
 import "./price.css";
 
 // import img1 from '../../public/img/planStandard.png'
@@ -18,7 +18,7 @@ export default function Price() {
           <div>
             <VerifyPage verifyPage={"Our Pricing"} />
             <h1 className="text-3xl font-bold">
-              CHOSE A PLAN THAT'S RIGHT FOR YOU
+              CHOOSE A PLAN THAT&apos;S RIGHT FOR YOU
             </h1>
           </div>
 
@@ -50,8 +50,8 @@ export default function Price() {
       </div>
 
       <div className="bg-blue-600 py-14">
-        <h1 className="text-white text-4xl font-bold flex justify-center pb-5">
-          We're Trusted By Clients
+      <h1 className="text-4xl font-bold flex justify-center pb-5">
+          We&apos;re Trusted By Clients
         </h1>
 
         <div className="flex flex-wrap justify-center">

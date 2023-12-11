@@ -1,7 +1,7 @@
 // import Image from 'next/image'
-import Button from "../(components)/button/button";
-import CoursesCard from "../(components)/coursesCard/coursesCard";
-import VerifyPage from "../(components)/verifyPage/verifyPage";
+import Button from "../components/button/button";
+import CoursesCard from "../components/coursesCard/coursesCard";
+import VerifyPage from "../components/verifyPage/verifyPage";
 
 export default function About() {
   return (

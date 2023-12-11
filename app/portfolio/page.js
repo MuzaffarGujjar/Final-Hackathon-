@@ -1,5 +1,5 @@
-import VerifyPage from "../(components)/verifyPage/verifyPage";
-import PortfolioCard from "./(components)/portfolioCard/portfolioCard";
+import VerifyPage from "../components/verifyPage/verifyPage";
+// import PortfolioCard from "./components/portfolioCard/portfolioCard";
 
 // import img1 from "../../public/img/istockphoto-1370431940-170667a";
 // import img2 from "../../public/img/istockphoto-1414489347-170667a";
