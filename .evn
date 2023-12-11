@@ -1,0 +1,1 @@
+DATABASE_CONECTION = "mongodb+srv://admin:12345@cluster0.jtzebfq.mongodb.net/Students?retryWrites=true&w=majority"
